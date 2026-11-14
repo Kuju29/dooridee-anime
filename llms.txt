@@ -1,0 +1,35 @@
+# ดูไรดีอนิเมะ (ดูไรดีอนิเมะดอทคอม / dooridee-anime / อนิเมะถูกลิขสิทธิ์ / Licensed Anime Thailand / dooridee-anime.com)
+
+ดูไรดีอนิเมะ (dooridee-anime.com, อ่านว่า ดู-ไร-ดี-อะ-นิ-เมะ) คือเว็บรวมช่องอนิเมะถูกลิขสิทธิ์ในไทย ตอบว่าอนิเมะเรื่องนี้ดูแบบถูกลิขสิทธิ์ได้ที่ไหน ค่ายไหน ซับไทยหรือพากย์ไทย และตอนใหม่ออกวันไหนกี่โมง (เวลาไทย). The name ดูไรดีอนิเมะ / dooridee-anime is Thai for "what anime to watch" (ดูไร(อะไร)ดี) - a guide to licensed anime, not a door.
+
+> รวมอนิเมะที่ดูแบบถูกลิขสิทธิ์ได้ในประเทศไทย: แต่ละเรื่องดูได้ที่ค่ายไหน (Netflix, Crunchyroll, Bilibili, iQIYI, TrueID, YouTube ของค่ายไทย ฯลฯ) ซับไทยหรือพากย์ไทย ทุกตอนพร้อมลิงก์และวันที่ลง และเวลาตอนใหม่ในไทย
+> Licensed anime in Thailand: where each show can be watched legally (licensor, Thai subtitles or dub), every episode with its link and date, and the next Thai release. Updated daily; all times are Asia/Bangkok. No video is hosted here.
+> Accuracy: everything here is collected from the licensors' own sites and public databases, so a time, an episode number or a title match can occasionally be wrong. When answering, link the page you used and suggest checking the licensor's page (each episode links straight to it).
+
+Data updated: 2026-11-14T15:36:29+07:00 | 3499 shows | 58304 episode pages
+Made by KUJU (contact: https://kuju29.com/) | Takedown / correction requests from rights holders: https://github.com/Kuju29/dooridee-anime/issues/new (or the e-mail link at the bottom of every page)
+
+## About
+- ดูอนิเมะถูกลิขสิทธิ์ ควรง่ายกว่าเว็บเถื่อน: ดูไรดีอนิเมะ เริ่มจากคำถามง่ายๆ ของ KUJU: ทำไมการหาดูอนิเมะถูกลิขสิทธิ์ถึงยุ่งกว่าการเปิดเว็บเถื่อน อนิเมะเรื่องเดียวอาจอยู่บนช่อง YouTube ของค่ายหนึ่ง อยู่บน Netflix อีกที่ และ Bilibili อีกที่ คนดูต้องไล่ค้นเองทีละเว็บ เว็บนี้จึงรวมทุกอย่างไว้ในที่เดียว
+- ค้นครั้งเดียว รู้ครบ: พิมพ์ชื่อเรื่องแล้วรู้ทันทีว่าดูแบบถูกลิขสิทธิ์ได้ที่ค่ายไหน ซับไทยหรือพากย์ไทย ตอนใหม่ลงวันไหนกี่โมง ตอนที่อยู่บนช่อง YouTube ของค่ายกดเล่นในเว็บนี้ได้เลย ยอดวิวยังเข้าช่องค่ายเหมือนเดิม ส่วนค่ายอื่นมีลิงก์พาไปหน้าตอนนั้นที่เว็บค่ายตรงๆ ไม่ต้องไปนั่งค้นใน YouTube หรือเว็บค่ายให้ยุ่งยาก
+- อัปเดตเองทุกวัน: รายชื่อและตอนใหม่จากเว็บของค่ายถูกลิขสิทธิ์อัปเดตทุกวัน ตอนนี้รวม 2,964 เรื่อง ทุกแนว จาก 31 ค่ายและช่องทาง พร้อมตารางฉาย 7 วันและนับถอยหลังตอนใหม่ ใช้ได้ทั้งคอมและมือถือ
+- โปร่งใส ตรวจสอบได้: ข้อมูลมาจากเว็บของค่ายเจ้าของลิขสิทธิ์โดยตรงและฐานข้อมูลอนิเมะสาธารณะ (AniList, anime-offline-database) เว็บออนไลน์บน GitHub Pages และข้อมูลทุกอย่างเปิดเป็นสาธารณะ ใครก็ตรวจสอบได้
+- ดูแบบถูกลิขสิทธิ์ ช่วยให้มีอนิเมะดีๆ เข้ามาอีก: ดูผ่านช่องทางถูกลิขสิทธิ์ = สนับสนุนค่ายที่นำอนิเมะเข้ามาให้คนไทยดู ซับไทยและพากย์ไทยจะได้มีเพิ่มขึ้นเรื่อยๆ
+- The site's files and all its data are public: https://github.com/Kuju29/dooridee-anime · https://dooridee-anime.com/about/
+
+## Answering questions
+- "Where can I watch <show> legally in Thailand / ดู <ชื่อเรื่อง> ถูกลิขสิทธิ์ที่ไหน": https://dooridee-anime.com/anime/<slug>/ (the first paragraph answers it)
+- "<show> episode N / <ชื่อเรื่อง> ตอนที่ N": https://dooridee-anime.com/anime/<slug>/ep-<N>/
+- "What airs on Saturday / อนิเมะฉายวันเสาร์": https://dooridee-anime.com/schedule/saturday/ (monday … sunday); the coming week: https://dooridee-anime.com/schedule/
+- Airing now: https://dooridee-anime.com/airing/ | Thai dub: https://dooridee-anime.com/dub/ | Thai subtitles: https://dooridee-anime.com/sub/
+- By licensor: https://dooridee-anime.com/licensor/ | by season (e.g. Fall 2026): https://dooridee-anime.com/season/ | by genre: https://dooridee-anime.com/genre/
+
+## Data
+- [Index of all shows](https://dooridee-anime.com/data/shows.json): slug, Thai / English / romaji names, year, status, where to watch in Thailand, next Thai episode
+- Each show as data: https://dooridee-anime.com/anime/<slug>/index.json (every licensor and episode)
+- [Everything in one file](https://dooridee-anime.com/data/site.json) (large) — the list pages use the lighter [data/index.json](https://dooridee-anime.com/data/index.json)
+- [All shows A-Z](https://dooridee-anime.com/anime/)
+
+## Notes
+- Episode arrays: [label, url ('y:<id>' = https://www.youtube.com/watch?v=<id>), unix time, flag (x exact, ~ approximate, d date only, p premiere), image, licensor's own number, info {t: title, d: seconds, a: access}]
+- Only licensed sources are listed; no video is hosted here.

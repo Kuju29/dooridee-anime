@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dooridee-anime.com/sitemap.xml
